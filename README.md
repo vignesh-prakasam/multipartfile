@@ -14,4 +14,4 @@ requestParams: file, enterpriseId, userId
 
 Testing:
 1)Use the html file under src/main/resources to upload file.
-2)The uploaded file will be created as <enterprise>_<userid>.txt . Path of the file creation can be specified in config.properties directory parameter.
+2)The uploaded file will be created as enterpriseId_userId.txt . Path of the file creation can be specified in config.properties directory parameter.
